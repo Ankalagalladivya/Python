@@ -1,0 +1,12 @@
+eid=101
+price=399
+a=0b111
+b=0B111
+print(type(eid))
+print(type(price))
+print(type(a))
+print(type(b))
+print(eid)
+print(price)
+print(a)
+print(b)
