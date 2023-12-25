@@ -1,0 +1,10 @@
+emp={
+    101:"Rahul",
+    101:"Lokesh",
+    101:"Mahesh",
+    101:"Ramesh",
+    101:"Suresh",
+    101:"Madan",
+    101:"Sonia",
+}
+print(emp)
